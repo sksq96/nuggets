@@ -5,3 +5,5 @@
 
 >>> set +xv #disable
 ```
+
+[Source](https://github.com/ohmyzsh/ohmyzsh/issues/6666#issuecomment-383327655)
